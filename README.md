@@ -1,9 +1,7 @@
-## Hi there 👋
+Eu sou Gabrielly Januário, tenho 15 anos e moro em São josé dos pinhais,
+atualmente eu não trabalho, apenas estudo.
+Eu gosto de dormir e ver TikTok.
 
-<!--
-**Gabyjanuario/Gabyjanuario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
